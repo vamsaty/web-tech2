@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/web-tech2/static/css/main.b100e6da.chunk.css",
-    "main.js": "/web-tech2/static/js/main.3914ed39.chunk.js",
-    "main.js.map": "/web-tech2/static/js/main.3914ed39.chunk.js.map",
+    "main.js": "/web-tech2/static/js/main.d5e0615f.chunk.js",
+    "main.js.map": "/web-tech2/static/js/main.d5e0615f.chunk.js.map",
     "runtime-main.js": "/web-tech2/static/js/runtime-main.811d8bfc.js",
     "runtime-main.js.map": "/web-tech2/static/js/runtime-main.811d8bfc.js.map",
     "static/js/2.afbab3ff.chunk.js": "/web-tech2/static/js/2.afbab3ff.chunk.js",
     "static/js/2.afbab3ff.chunk.js.map": "/web-tech2/static/js/2.afbab3ff.chunk.js.map",
     "index.html": "/web-tech2/index.html",
-    "precache-manifest.e8982da7fb61408a5a384ed60776f857.js": "/web-tech2/precache-manifest.e8982da7fb61408a5a384ed60776f857.js",
+    "precache-manifest.158631ad16291af8c8e2be3c9aebe403.js": "/web-tech2/precache-manifest.158631ad16291af8c8e2be3c9aebe403.js",
     "service-worker.js": "/web-tech2/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/web-tech2/static/css/main.b100e6da.chunk.css.map",
     "static/media/logo.svg": "/web-tech2/static/media/logo.25bf045c.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.811d8bfc.js",
     "static/js/2.afbab3ff.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.3914ed39.chunk.js"
+    "static/js/main.d5e0615f.chunk.js"
   ]
 }
