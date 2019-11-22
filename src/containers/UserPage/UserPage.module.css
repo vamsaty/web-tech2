@@ -1,0 +1,13 @@
+.infoContainer{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    border: 1px solid salmon;
+    box-sizing: border-box;
+}
+
+.infoContainer > div{
+    flex: 1;
+    padding: 20px;
+    border: 1px solid crimson;
+}

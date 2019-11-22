@@ -1,0 +1,53 @@
+.postCard{
+    display: flex;
+    justify-content:flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 2px;
+    box-sizing: border-box;
+    margin-top: 3px;
+    cursor: pointer;
+    color: black;
+    transition: 0.2s ease-in-out;
+}
+
+.postCard:hover{
+    background-color: white;
+    /* opacity: 0.7; */
+}
+
+.postCard > div{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.postCard > div > img{
+    
+    margin: 5px;
+    width: 30px;
+    height: 30px;
+    border: 1px solid crimson;
+    display: inline;
+}
+
+.postCard > p{
+    text-align: left;;
+    word-wrap: break-word;
+    display: inline;
+    padding: 0;
+}
+
+.detSpan{
+    font:10px tahoma;
+    display: inline;
+}
+
+.detVal{
+    display: inline;
+    font:10px tahoma;
+}
+
+.mainSpan{
+    display: inline;
+}
