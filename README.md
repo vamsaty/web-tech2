@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Instructions
 
 ### HOSTED ON : 
-The app is hosted on ### ' http://vamsaty.github.io/web-tech2/ '
+The app is hosted on ## http://vamsaty.github.io/web-tech2/
 
 ### DATABASE AND BACKEND : 
 MongoDB is used for the database, and Flask WSGI serves the backend requests. 
